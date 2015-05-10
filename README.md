@@ -1,4 +1,4 @@
 # GameCode
-Some little self-made computer games.
+Here are some little self-made computer games.
 
 Welcome to play or modify them!
